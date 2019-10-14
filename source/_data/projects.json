@@ -1,0 +1,22 @@
+[
+    {
+       "name":"Bank Hunt",
+       "url":"https://bankhunt.ca",
+       "desc":"Compare the products offered by every Bank in Canada"
+    },
+    {
+        "name":"Whiz Kid",
+        "url":"https://github.com/blackmagic-consult/vue-whizkid",
+        "desc":"A Meeting Scheduling tool for Minimalists"
+    },
+    {
+       "name":"Write.as Vim",
+       "url":"/2018/01/28/write-as-vim/",
+       "desc":"A simple plugin to enable uploading blog posts from your Vim Buffer"
+    },
+    {
+        "name": "Masto Muse",
+        "url": "https://github.com/blackmagic-consult/masto-muse",
+        "desc": "Automatically post your currently playing song to Mastodon"
+    }
+]

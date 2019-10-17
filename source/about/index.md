@@ -7,4 +7,8 @@ Hi! I'm Alex, a Full Stack Developer living in Calgary, Alberta.
 
 ## My Previous Work
 
+### [BYOB Water Canada](http://byobwater.ca) - DevOps
+
+I 
+
 ## How I Build Things
